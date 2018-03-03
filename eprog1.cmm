@@ -1,0 +1,11 @@
+bool max;
+
+void main() {
+  int a;
+  
+  max = true;
+  a=max;
+
+  a= a + max;
+  
+}

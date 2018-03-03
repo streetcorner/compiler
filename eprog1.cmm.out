@@ -1,0 +1,7 @@
+bool max;
+void main() {
+    int a;
+    max(bool) = true;
+    a(int) = max(bool);
+    a(int) = (a(int) + max(bool));
+}
